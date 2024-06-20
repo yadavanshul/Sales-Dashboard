@@ -21,12 +21,9 @@ This repository contains the implementation of a sales data visualization dashbo
 
 ## File Structure
 
+![Capture](https://github.com/yadavanshul/Sales-Dashboard/assets/91140602/ccf1e933-8b6e-4f40-8aa6-478e41176000)
+
 - `Dashboard.screenshot.png`: A screenshot of the dashboard.
 - `data/`: This folder contains the datasets used in the dashboard.
-- `scripts/`: Contains scripts for setting up and customizing the dashboard.
+- `Pratice`: Contains dashboard.
 
-## Installation
-
-To set up the dashboard locally, follow these steps:
-
-1. Clone the repository:
